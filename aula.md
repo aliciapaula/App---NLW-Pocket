@@ -28,10 +28,27 @@ Constantes
 
 ## Tipos de dados: 
 
-Strings (textos): "" '' ``
-Number: numeros: 2 1.4
-Function
+- Strings (textos): "" '' ``
+- Number: numeros: 2 1.4
+- Boolean: true or false
 
 ## Operadores 
 
 Operador de atribuição de valor " = "
+Operador de concatenação " + ". Concatenação é a junção de uma ou mais strings
+
+### Arrays:
+
+Uma lista que contém qualquer tipo de dado
+
+### Objetos: 
+
+Atributo e métodos 
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+
+## Functions
+
+- criar, passar argumento
+- executar
+- arrow function / named function
