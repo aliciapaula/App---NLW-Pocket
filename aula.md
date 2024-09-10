@@ -40,7 +40,8 @@ Operadores de comparação: "==, != < > <= >="
 
 ### Arrays:
 
-Uma lista que contém qualquer tipo de dado
+- Uma lista que contém qualquer tipo de dado
+- Métodos de array
 
 ### Objetos: 
 
