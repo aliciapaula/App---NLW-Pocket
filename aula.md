@@ -36,6 +36,7 @@ Constantes
 
 Operador de atribuição de valor " = "
 Operador de concatenação " + ". Concatenação é a junção de uma ou mais strings
+Operadores de comparação: "==, != < > <= >="
 
 ### Arrays:
 
@@ -60,6 +61,7 @@ Acesso a propriedades de objetos
 # Condicionais 
 
 - switch
+-if/else
 
 ## Módulos em Node.js:
 
