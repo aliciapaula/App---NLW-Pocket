@@ -37,11 +37,12 @@ Constantes
 Operador de atribuição de valor " = "
 Operador de concatenação " + ". Concatenação é a junção de uma ou mais strings
 Operadores de comparação: "==, != < > <= >="
+Spread operator: ...
 
 ### Arrays:
 
 - Uma lista que contém qualquer tipo de dado
-- Métodos de array
+- Métodos de array: push, find, forEach, filter : HOF (Higher Order Functions)
 
 ### Objetos: 
 
